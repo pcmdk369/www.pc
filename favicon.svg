@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" fill="#04040c"/>
+  <!-- Five interlocking circles in pentagon arrangement, gold -->
+  <!-- Top -->
+  <circle cx="32" cy="14" r="11" stroke="#c9a84c" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <!-- Upper right -->
+  <circle cx="48" cy="26" r="11" stroke="#c9a84c" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <!-- Lower right -->
+  <circle cx="42" cy="44" r="11" stroke="#c9a84c" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <!-- Lower left -->
+  <circle cx="22" cy="44" r="11" stroke="#c9a84c" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <!-- Upper left -->
+  <circle cx="16" cy="26" r="11" stroke="#c9a84c" stroke-width="1.5" fill="none" opacity="0.9"/>
+</svg>
